@@ -45,7 +45,7 @@ git clone https://github.com/drkphnx/android_prebuilts_clang_host_linux-x86_clan
 ## Xiaomi Hardware (required to build Xiaomi Parts)
 ```bash
 rm -rf hardware/xiaomi
-git clone https://github.com/PixelPlusUI-SnowCone/hardware_xiaomi.git -b snowcone-12.1 hardware/xiaomi
+git clone git@github.com:LineageOS/android_hardware_xiaomi.git -b lineage-19.1 hardware/xiaomi
 ```
 
 ## HALS
