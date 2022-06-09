@@ -22,13 +22,13 @@ git clone git@github.com:raystef66/InfiniR_kernel_alioth.git -b 12.1-alioth kern
 
 git clone https://github.com/Official-Ayrton990/android_kernel_xiaomi_sm8250.git -b upstreamed-common kernel/xiaomi/alioth 
 
------------------------immensity fork by ppui-----------------	
+-----------------------Immensity-----------------	
 
-git clone git@github.com:PixelPlusUI-Devices/alioth_kernel_xiaomi_sm8250.git -b snowcone kernel/xiaomi/alioth
+git clone git@github.com:UtsavBalar1231/kernel_xiaomi_sm8250.git kernel/xiaomi/alioth
 
 -----------------------N0 kernel-----------------	
     
-git clone git@github.com:EmanuelCN/kernel_xiaomi_sm8250.git -b staging5 kernel/xiaomi/alioth
+git clone git@github.com:EmanuelCN/kernel_xiaomi_sm8250.git -b staging kernel/xiaomi/alioth
 ```
 
 ## Clangs
