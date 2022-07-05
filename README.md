@@ -22,8 +22,8 @@ git clone git@github.com:cristianvaz/device_xiaomi_sm8250-common.git device/xiao
 
 ## Vendor Tree (by [@cristianvaz](https://github.com/cristianvaz))
 ```bash
-git clone git@github.com:cristianvaz/vendor_xiaomi_alioth.git vendor/xiaomi/alioth
-git clone git@github.com:cristianvaz/vendor_xiaomi_sm8250-common.git vendor/xiaomi/sm8250-common
+git clone git@github.com:PlusLineage/vendor_xiaomi_alioth.git vendor/xiaomi/alioth
+git clone git@github.com:PlusLineage/vendor_xiaomi_sm8250-common.git vendor/xiaomi/sm8250-common
 ```
 
 ## Kernels
@@ -66,11 +66,6 @@ git clone https://github.com/drkphnx/android_prebuilts_clang_host_linux-x86_clan
 ### SDClang
 ```bash
 git clone https://github.com/VoidUI/prebuilts_clang_host_linux-x86_clang-sdclang -b aosp-12.1 prebuilts/clang/host/linux-x86/clang-sdclang
-```
-
-### Neutron Clang 15
-```bash
-git clone https://gitlab.com/dakkshesh07/neutron-clang prebuilts/clang/host/linux-x86/clang-neutron
 ```
 
 ## Xiaomi Hardware (required to build Xiaomi Parts)
