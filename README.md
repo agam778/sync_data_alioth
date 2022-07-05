@@ -3,7 +3,7 @@
 ## Device tree (my own)
 ### alioth Device Tree
 ```bash
-git clone git clone git@github.com:agam778/device_xiaomi_alioth.git device/xiaomi/alioth
+git clone git@github.com:agam778/device_xiaomi_alioth.git device/xiaomi/alioth
 ```
 ### common Device Tree
 ```bash
