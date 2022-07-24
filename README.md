@@ -10,16 +10,6 @@ git clone git@github.com:agam778/device_xiaomi_alioth.git device/xiaomi/alioth
 git clone git@github.com:agam778/device_xiaomi_sm8250-common.git device/xiaomi/sm8250-common
 ```
 
-## Device Tree (by [@cristianvaz](https://github.com/cristianvaz))
-### alioth Device Tree
-```bash
-git clone git@github.com:cristianvaz/device_xiaomi_alioth.git device/xiaomi/alioth
-```
-### common Device Tree
-```bash
-git clone git@github.com:cristianvaz/device_xiaomi_sm8250-common.git device/xiaomi/sm8250-common
-```
-
 ## Vendor Tree (by [@cristianvaz](https://github.com/cristianvaz))
 ```bash
 git clone git@github.com:PlusLineage/vendor_xiaomi_alioth.git vendor/xiaomi/alioth
